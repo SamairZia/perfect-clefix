@@ -1,0 +1,578 @@
+@media only screen and (max-width: 1040px) {
+  .index-sec-1 .main-left-wrap h1 {
+    font-size: 70px;
+  }
+
+  .index-sec-1 .search-wrapper {
+    flex-wrap: wrap;
+    margin-right: 0;
+    padding: 20px;
+  }
+
+  .index-sec-1 .single-select {
+    margin-right: 0;
+    margin: 0 0 10px 0;
+  }
+
+  .logos-sec .logo-slider .owl-nav {
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 991px) {
+  .index-sec-1 {
+    min-height: auto;
+  }
+  .index-sec-1 .main-left-wrap h1 {
+    font-size: 30px;
+  }
+  .index-sec-1 .search-wrapper {
+    padding: 15px;
+    flex-wrap: wrap;
+    margin-right: 0;
+  }
+  .index-sec-1 .single-select {
+    margin-right: 0;
+    margin: 0 0 10px 0;
+  }
+  .index-sec-1 .btn-wrap button {
+    width: 140px;
+    padding: 5px 0;
+    margin-top: 20px;
+  }
+
+  .logos-sec .logo-slider .owl-nav.disabled {
+    display: none;
+  }
+
+  .home-light-wrap {
+    padding: 50px 30px;
+  }
+
+  .about-sec-1 .row {
+    padding: 20px 0px;
+  }
+
+  .about-text-wrap h2 {
+    font-size: 24px;
+  }
+  .about-text-wrap p, .about-text-wrap li {
+    letter-spacing: 1.2px;
+    line-height: 1.8;
+  }
+
+  .vd-slider-wrapper .venue-meta-desc {
+    width: 80%;
+    padding: 15px;
+  }
+
+  .vd-slider-wrapper .profile-img {
+    right: 20px;
+    max-width: 170px;
+  }
+
+  .acc-field-wrap input, .acc-field-wrap textarea {
+    padding: 10px;
+  }
+
+  .acc-btn-wrap button {
+    padding: 5px;
+    max-width: 180px;
+  }
+
+  .inner-sec-1 {
+    min-height: 230px;
+  }
+}
+@media only screen and (max-width: 911px) {
+  .circle {
+    display: flex;
+  }
+
+  .header-wrapper .logo-wrap img {
+    max-width: 200px;
+  }
+  .header-wrapper .menu-wrap {
+    display: block;
+    padding-top: 50px;
+  }
+  .header-wrapper .menu-item {
+    margin-right: 0 !important;
+    margin-bottom: 10px;
+  }
+  .header-wrapper .cta {
+    position: fixed;
+    top: 10px;
+    right: 45px;
+  }
+  .header-wrapper .search {
+    margin-left: 0;
+    position: fixed;
+    top: 17px;
+    right: 15px;
+  }
+
+  .mega-menu {
+    padding: 0;
+    width: auto;
+    position: static;
+    right: unset;
+    left: unset;
+    top: unset;
+    z-index: 99999;
+    border-bottom: none;
+    box-shadow: none;
+  }
+  .mega-menu .container {
+    padding: 0;
+  }
+  .mega-menu .md-single {
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  .mega-menu .md-single h6 {
+    font-size: 14px;
+    margin-bottom: 5px;
+  }
+}
+@media only screen and (max-width: 525px) {
+  .index-sec-1 {
+    padding: 30px 0;
+    min-height: auto;
+  }
+
+  .index-sec-1 .main-container {
+    position: relative;
+  }
+
+  .rightmobile {
+    position: absolute;
+    z-index: -1;
+    padding: 0;
+  }
+
+  .index-sec-1 .main-left-wrap h1 {
+    font-size: 36px;
+  }
+
+  .index-sec-1 .btn-wrap button {
+    width: 150px;
+    padding: 6px 0;
+  }
+
+  .index-sec-1 .search-wrapper {
+    margin-right: 0;
+    flex-wrap: wrap;
+    padding: 15px;
+  }
+
+  .index-sec-1 .single-select {
+    margin-right: 0;
+    margin-bottom: 25px;
+  }
+
+  .index-sec-1 .single-select select, .index-sec-1 .single-select input {
+    min-width: 310px;
+  }
+
+  .logos-sec .logo-slider .owl-nav.disabled {
+    display: none;
+  }
+
+  .logo-slider .owl-dots .owl-dot span {
+    width: 10px;
+    height: 10px;
+    margin: 5px;
+    background: #cecece;
+    display: block;
+  }
+
+  .logo-slider .owl-dots .owl-dot.active span, .logo-slider .owl-dots .owl-dot:hover span {
+    background: #FEE715FF;
+  }
+
+  .logos-sec {
+    padding: 40px 0 10px 0;
+  }
+
+  .index-sec-2 {
+    padding: 20px 0;
+  }
+
+  .index-sec-2 .heading-wrap h2 {
+    font-size: 30px;
+  }
+
+  .index-sec-2 .heading-wrap p {
+    font-size: 16px;
+    letter-spacing: 0.5px;
+  }
+
+  .index-sec-2 .fh-single .desc-wrap {
+    padding: 15px;
+  }
+
+  .index-sec-2 .fh-single .desc-wrap p {
+    letter-spacing: 0;
+    text-transform: unset;
+  }
+
+  .index-sec-2 .fh-single .desc-wrap .rating i, .index-sec-2 .fh-single .desc-wrap .rating span {
+    font-size: 12px;
+  }
+
+  .home-light-wrap {
+    padding: 20px 20px;
+  }
+  .home-light-wrap h3 {
+    font-size: 30px;
+  }
+  .home-light-wrap h5 {
+    margin-bottom: 15px;
+    letter-spacing: 3px;
+  }
+  .home-light-wrap p {
+    letter-spacing: 0;
+    margin-bottom: 25px;
+  }
+
+  .index-sec-4 {
+    padding: 50px 0;
+  }
+  .index-sec-4 .heading-wrap h2 {
+    font-size: 30px;
+  }
+  .index-sec-4 .heading-wrap p {
+    font-size: 16px;
+    letter-spacing: 0.5px;
+  }
+  .index-sec-4 .hw-single {
+    margin-bottom: 15px;
+  }
+
+  .index-sec-5 {
+    padding: 40px 0;
+  }
+  .index-sec-5 .ready-wrapper h2 {
+    font-size: 28px;
+    letter-spacing: 2px;
+  }
+  .index-sec-5 .ready-wrapper h5 {
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin: 20px 0;
+    font-weight: 400;
+  }
+
+  .reviews-section {
+    padding: 30px 0;
+  }
+  .reviews-section h6 {
+    font-size: 30px;
+  }
+
+  footer {
+    padding: 40px 0 0;
+  }
+
+  .search-modal .modal-dialog {
+    margin-top: 40%;
+  }
+  .search-modal .search-popup-body {
+    padding: 80px 10px;
+  }
+  .search-modal .search-input-wrap input {
+    height: 40px;
+    width: 100%;
+    border: 0;
+    border-bottom: 1px solid #dad8d8;
+    font-size: 14px;
+    color: #333;
+    padding: 0 10px 0 0;
+  }
+  .search-modal .search-input-wrap button {
+    height: 40px;
+    width: 40px;
+  }
+
+  .inner-sec-1 {
+    min-height: 200px;
+  }
+  .inner-sec-1 h2 {
+    font-size: 30px;
+  }
+
+  .about-sec-1 {
+    padding: 0;
+  }
+  .about-sec-1 .row {
+    padding: 20px 0;
+  }
+
+  .about-text-wrap h2 {
+    font-size: 22px;
+    line-height: 1.5;
+    margin-bottom: 15px;
+    margin-top: 10px;
+  }
+  .about-text-wrap p, .about-text-wrap li {
+    line-height: 1.8;
+    letter-spacing: 0;
+  }
+
+  .about-img-wrap {
+    margin-top: 25px;
+  }
+
+  .venue-list-1 {
+    padding: 30px 0;
+  }
+  .venue-list-1 .list-meta {
+    flex-wrap: wrap;
+  }
+  .venue-list-1 .list-meta .vlist-search {
+    flex: unset;
+    margin: 10px 0;
+    width: 100%;
+  }
+  .venue-list-1 .list-meta p {
+    font-size: 12px;
+  }
+  .venue-list-1 .list-meta .sort-group label, .venue-list-1 .list-meta .sort-group select {
+    font-size: 12px;
+  }
+
+  .vl-single {
+    position: relative;
+  }
+  .vl-single .vls-desc-wrap {
+    flex-wrap: wrap;
+    margin: 0;
+  }
+  .vl-single .vls-desc-wrap .vlsd-sm-img {
+    margin: 0;
+    position: absolute;
+    top: 0;
+    right: 0;
+    max-width: 70px;
+  }
+  .vl-single .vls-desc-wrap .vlsd-sm-img img {
+    border-width: 2px;
+  }
+  .vl-single .vlsd-text-wrap {
+    transform: none;
+    padding: 20px 0px 0 0px;
+  }
+  .vl-single .vlsd-text-wrap h3 {
+    font-size: 28px;
+  }
+  .vl-single .vlsd-text-wrap h6 {
+    font-size: 16px;
+  }
+  .vl-single .vlsd-text-wrap p {
+    font-size: 14px;
+    margin: 15px 0 15px;
+    line-height: 1.7;
+  }
+  .vl-single .vlsd-text-wrap a {
+    width: 180px;
+    padding: 7px 0;
+  }
+
+  .filters-wrap .fw-inner-wrapper h5 {
+    font-size: 16px;
+  }
+
+  .filters-wrap .fw-inner-wrapper .city-search {
+    padding: 0 15px;
+  }
+  .filters-wrap .fw-inner-wrapper .city-search input {
+    width: 100%;
+  }
+
+  .venue-detail-1 {
+    padding: 30px 0;
+  }
+
+  .vd-slider-wrapper {
+    padding-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .vd-slider-wrapper .venue-meta-desc {
+    position: static;
+    order: 2;
+    width: 100%;
+    padding: 10px;
+    flex-wrap: wrap;
+  }
+  .vd-slider-wrapper .venue-meta-desc h6 {
+    margin-bottom: 5px;
+  }
+  .vd-slider-wrapper .venue-meta-desc h3 {
+    font-size: 20px;
+    margin-bottom: 5px;
+  }
+  .vd-slider-wrapper .venue-meta-desc p {
+    margin-bottom: 5px;
+  }
+  .vd-slider-wrapper .venue-meta-desc .text-right {
+    width: 100%;
+    text-align: left !important;
+  }
+  .vd-slider-wrapper .cover-img {
+    order: 1;
+  }
+  .vd-slider-wrapper .profile-img {
+    order: 3;
+    position: absolute;
+    max-width: 65px;
+    top: 10px;
+    right: 0;
+    bottom: unset;
+  }
+
+  .venue-desc-wrapper {
+    padding: 30px 0 50px;
+  }
+
+  .pd-nav .pd-nav-link {
+    margin-right: 0;
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+  .fc .fc-toolbar {
+    flex-wrap: wrap;
+  }
+
+  .fc-toolbar-chunk {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+
+  .single-review .sr-avatar {
+    max-width: 30px;
+    margin-right: 10px;
+    margin-top: 5px;
+  }
+
+  .review-head {
+    padding: 7px;
+  }
+  .review-head .r-name {
+    font-size: 14px;
+  }
+
+  .review-body p {
+    font-size: 14px;
+  }
+
+  .vd-contact {
+    padding: 15px;
+    margin-top: 15px;
+  }
+
+  .acc-field-wrap input, .acc-field-wrap textarea {
+    padding: 10px;
+    font-size: 14px;
+  }
+  .acc-field-wrap label {
+    font-size: 14px;
+  }
+
+  .acc-btn-wrap button {
+    font-size: 14px;
+    padding: 7px;
+    max-width: 120px;
+  }
+
+  .forgot-pass {
+    font-size: 15px;
+  }
+
+  .single-blog-detail .sbd-desc-wrap {
+    width: 100%;
+    transform: none;
+    padding: 10px 0;
+  }
+  .single-blog-detail .sbd-desc-wrap .sbd-posted {
+    margin-bottom: 5px;
+  }
+  .single-blog-detail .sbd-desc-wrap .sbd-heading {
+    margin-bottom: 15px;
+    font-size: 20px;
+    letter-spacing: 0px;
+  }
+  .single-blog-detail .sbd-comment-sec .sbdc-single-comment img {
+    max-width: 30px;
+  }
+  .single-blog-detail .sbd-comment-sec .sbdc-single-comment .sbdc-sc-desc {
+    margin-left: 5px;
+  }
+  .single-blog-detail .sbd-comment-sec .sbdc-single-comment .sbdc-sc-desc .sbdc-head {
+    flex-wrap: wrap;
+  }
+
+  .vendor-sec1 {
+    padding: 30px 0;
+  }
+  .vendor-sec1 h2 {
+    margin-bottom: 5px;
+    margin-top: 0;
+  }
+  .vendor-sec1 p {
+    line-height: 1.8;
+    margin-bottom: 15px;
+  }
+
+  .vendor-form-wrap {
+    padding: 12px;
+  }
+
+  .vendor-sec2 .row {
+    margin: 0;
+  }
+  .vendor-sec2 .col-sm-12 {
+    padding: 0;
+  }
+
+  .advantage-wrapper {
+    padding: 20px;
+  }
+  .advantage-wrapper .aw-single {
+    margin-bottom: 15px;
+  }
+  .advantage-wrapper .aw-single i {
+    font-size: 20px;
+  }
+  .advantage-wrapper .aw-single p {
+    font-size: 14px;
+  }
+
+  .dash-sec-1 {
+    padding: 30px 0;
+  }
+
+  .dash-sidebar .ds-link {
+    padding: 7px;
+  }
+
+  .dashboard-right-wrapper {
+    margin-top: 15px;
+  }
+
+  .cart-table-wrap table tr th, .cart-table-wrap table tr td {
+    white-space: nowrap;
+    font-size: 14px;
+  }
+
+  .cart-table-wrap table tr th {
+    padding: 5px 10px;
+    font-weight: 600;
+  }
+}
+
+/*# sourceMappingURL=responsive.css.map */

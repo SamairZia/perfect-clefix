@@ -1,0 +1,29 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: 'Poppins', sans-serif;
+  overflow-x: hidden;
+  transition: all 0.5s ease-in-out;
+  color: #131313;
+}
+input,select,textarea,textarea:focus,input:focus,button:focus,select:focus {
+  outline: none;
+}
+h1,h2,h3,h4,h5,h6,p,span,ul,li,a,.table,textarea,label {
+  margin: 0;
+  padding: 0;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+ul,li {
+  list-style: none;
+}
+a:hover,a:focus {
+  text-decoration: none;
+}
+.container {
+  max-width: 1170px;
+}
